@@ -1,0 +1,23 @@
+{
+  "name": "voop",
+  "version": "0.0.0",
+  "description": "Doop + Vue + VueX",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Matt Carter <m@ttcarter.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "chalk": "^1.1.3",
+    "express": "^4.15.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-util": "^3.0.8",
+    "vue": "^2.2.1",
+    "vuex": "^2.2.1"
+  }
+}
